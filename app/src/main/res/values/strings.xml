@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnonymousSNS</string>
+    <string name="URL">https://anonymoussns-48a6c-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "516654214097",
+    "firebase_url": "https://anonymoussns-48a6c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "anonymoussns-48a6c",
+    "storage_bucket": "anonymoussns-48a6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516654214097:android:a3e4c822ec2c1fdc15cef0",
+        "android_client_info": {
+          "package_name": "com.born2k.anonymoussns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516654214097-iutttos5utg9o2up2pkia2p27h8nis8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmcpeGbBMdCr3ochsQ09XAIS5I9zWp9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516654214097-iutttos5utg9o2up2pkia2p27h8nis8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
